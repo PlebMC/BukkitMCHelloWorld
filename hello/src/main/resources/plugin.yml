@@ -1,0 +1,7 @@
+name: helloworld
+version: '${project.version}'
+main: hello.lone.Lone
+api-version: 1.15
+commands:
+  hello:
+    description: Say hello to the world
